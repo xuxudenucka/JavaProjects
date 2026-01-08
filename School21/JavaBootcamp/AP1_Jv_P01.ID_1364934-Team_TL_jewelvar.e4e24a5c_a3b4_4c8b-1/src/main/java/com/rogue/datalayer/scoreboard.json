@@ -1,0 +1,12 @@
+[ {
+  "playerName" : "Adventurer",
+  "depthReached" : 4,
+  "treasureCollected" : 440,
+  "monstersDefeated" : 23,
+  "foodEaten" : 0,
+  "elixirsDrunk" : 0,
+  "scrollsRead" : 1,
+  "hitsDealt" : 49,
+  "hitsTaken" : 12,
+  "tilesTraversed" : 549
+} ]
